@@ -29,7 +29,6 @@
  - **UI Library**: React 19 with Radix UI components and Shadcn UI
  - **Styling**: Tailwind CSS
  - **Authentication & Database**: Supabase
- - **State Management**: React Hooks, Context API
  - **Form Handling**: React Hook Form with Zod validation
  - **Deployment**: Vercel
 
