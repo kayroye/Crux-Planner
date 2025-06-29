@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.5.5 - Open Beta
+- **Feature**: **Academic Progress** – Implemented a new academic progress page to help users track their progress towards graduation.
+- **Feature**: **Grade Calculator** – Added a grade calculator to the academic progress page.
+- **Improvement**: **UI Improvements** – Added a small display of your current breadth requirements to the home page.
+- **Fix**: **Bug Fixes** – Fixed a bug where the toggles in the settings page would not work properly.
+
+## 1.5.2 - Open Beta
+- **Feature**: **Study Groups** – Added the ability to post and view posts in study groups. More coming soon!
+- **Feature**: **Landing Page** – Overhauled the landing page to be more informative and user-friendly.
+- **Feature**: **Community Guidelines** – Added a community guidelines page to help users understand the rules around posting on Crux.
+- **Feature**: **Moderation System** – Added a moderation system to Crux. Careful what you say!
+- **Improvement**: **Search Functionality** – Improved the search functionality and UI to convey certain information a bit better.
+- **Improvement**: **Loading Speed Improvements** – Improved the loading speed of the app and its pages by nearly 10x.
+- **Fix**: **Bug Fixes** – Fixed a big bug with the search function and a few other things.
+
+## 1.3.9 - Open Beta
+- **Feature**: **Community Tab** – Added functionality to the community tab to allow users to view study groups they've been added to. More coming soon!
+- **Improvement**: **New Team Section** – Updated the team section on the landing page to accurately reflect the team.
+- **Fix**: **Bug Fixes** – The whole database was down, fixed that up, sorry!
+
 ## 1.3.4 - Open Beta
 - **Feature**: **Course Scheduling** – Added a new course scheduling tab that allows you to see the available lectures, labs, and tutorials for a course.
 
